@@ -1,4 +1,4 @@
-Breve Descricion de la Oferta de Productos:
+Breve Descripcion de la Oferta de Productos:
 
 Ofrecemos productos de decoración para el hogar que resalten los sentidos, hagan más confortables los espacios de nuestras casas y produzcan experiencias sensoriales de bienestar.
 Incorporamos nuevos diseños cada temporada que mantengan en alto las expectativas de nuestro mercado, aumentando el abanico de opciones en cuanto a variedad de precios, texturas, materiales y productos.
@@ -11,7 +11,6 @@ Integrantes:
 * Barbagelata Antonio: Contador Publico - 46 años, divorciado, con dos hijas. Nacido en Paraná - Entre Ríos. Vivo en Capital Federal desde 2002. Me gusta Kite Surf, Pintar, La Musica, Boxeo, Caminar, Leer. Hoy en busca de otros horizontes con la programación.
 
 * Pablo Cadena: 29 años, Ingeniero Industrial de Salta-Argentina. Me gusta el fútbol, lectura y videojuegos
-
 
 * Omar Ospina: 54 años, con estudios de tecnología en sistemas de información, con dos hijas; me gusta el cine, montar en bicicleta y disfrutar del campo, nací y vivo en Medellín, Colombia.
 
