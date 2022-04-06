@@ -1,4 +1,4 @@
-Breve Descricion dela Oferta de Productos:
+Breve Descripcion de la Oferta de Productos:
 
 Ofrecemos productos de decoración para el hogar que resalten los sentidos, hagan más confortables los espacios de nuestras casas y produzcan experiencias sensoriales de bienestar.
 Incorporamos nuevos diseños cada temporada que mantengan en alto las expectativas de nuestro mercado, aumentando el abanico de opciones en cuanto a variedad de precios, texturas, materiales y productos.
